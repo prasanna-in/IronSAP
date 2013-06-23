@@ -1,0 +1,12 @@
+
+<module>
+  <name>IronSAP</name>
+  <version>0.1</version>
+  <display_name>IronSAP</display_name>
+  <author>Prasanna K</author>
+  <project_home>https://github.com/prasanna2204/IronSAP</project_home>
+  <works_on_session>no</works_on_session>
+  <works_on_url>yes</works_on_url>
+  <works_on_finding>yes</works_on_finding>
+  <description>https://github.com/prasanna2204/IronSAP</description>
+</module>
