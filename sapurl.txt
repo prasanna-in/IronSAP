@@ -155,3 +155,16 @@
 /mmr/mmr/MMRUI.html
 /utl/UsageTypesInfo
 /irj/portal
+/index.html
+/wsnavigator/jsps/index.jsp
+/webdynpro/welcome/Welcome.jsp
+/uddiclient/jsps/index.jsp
+/uddiclient/process/
+/nwa
+/logon/logonServlet
+/monitoring/SystemInfo
+/htmlb/index.html
+/htmlb/moresamples.html
+/htmlb/samples.html
+/htmlb/docs/api/index.html
+/htmlb/jsp/index.jsp
